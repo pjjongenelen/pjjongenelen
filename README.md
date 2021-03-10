@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tim, a Data Science & Entrepreneurship student at the Jheronimus Academy of Data Science ([JADS](https://www.jads.nl/)).
+I'm Tim, a Data Science & Entrepreneurship student at the Jheronimus Academy of Data Science ([JADS](https://www.jads.nl/)).  
 I have a (not so) secret crush on spreadheets, but Python is cool to!
 
 
